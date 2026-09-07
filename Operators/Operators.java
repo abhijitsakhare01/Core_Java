@@ -3,6 +3,27 @@ public class Operators {
 
     public static void main(String[] args) {
 
+        // Data Types
+
+        int number = 22;
+        double salary = 25000.50;
+        char  grand = 'A';
+        byte b = 10;
+        short s = 100;
+        long l = 10000L;
+        float f = 10.5f;
+        
+        System.out.println(number);
+        System.out.println(salary);
+        System.out.println(grand);
+        System.out.println(b);
+        System.out.println(s);
+        System.out.println(l);
+        System.out.println(f);
+       
+
+
+
         // Arithmatic Operators
 
         int num1 = 10;
