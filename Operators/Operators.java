@@ -44,20 +44,15 @@ public class Operators {
         System.out.println(result);
         System.out.println(num);
 
-
         // Ternary Operator
 
         // condition ? trueValue : falseValue;
 
         int age = 20;
 
-        String answer = (age >= 18) ?  "Eligible" : "Not Eligible";
+        String answer = (age >= 18) ? "Eligible" : "Not Eligible";
 
         System.out.println(answer);
-
-
-
-
 
     }
 
