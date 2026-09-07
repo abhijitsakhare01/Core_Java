@@ -8,7 +8,7 @@ public class Operators {
         int number = 22;
         double salary = 25000.50;
         char  grand = 'A';
-        byte b = 10;
+        byte c = 10;
         short s = 100;
         long l = 10000L;
         float f = 10.5f;
@@ -16,7 +16,7 @@ public class Operators {
         System.out.println(number);
         System.out.println(salary);
         System.out.println(grand);
-        System.out.println(b);
+        System.out.println(c);
         System.out.println(s);
         System.out.println(l);
         System.out.println(f);
